@@ -3,7 +3,7 @@ Exercises from teamtreehouse.com course.
 
 # Prerequisites
 What do you need to run.
-* Java 7+
+* Java 8+
 * Gradle 4+ (Optional)
 
 # Running
